@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a 3rd year Computer Information Systems student at the University of Jordan with a special interest in mobile development.<br><br>I'm currently interning at a FinTech company as a software developer
-
+who cares
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abdullahomar_04/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-omar-792886261/) 
